@@ -1,3 +1,7 @@
 First Line in file 2
+<<<<<<< Updated upstream
 Second Line in file 2
 file 2--extra
+=======
+Second Line in file 2
+>>>>>>> Stashed changes
