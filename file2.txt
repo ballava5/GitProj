@@ -1,1 +1,2 @@
 First Line in file 2
+Second Line in file 2
